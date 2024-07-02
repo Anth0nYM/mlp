@@ -18,5 +18,3 @@ In the main notebook, we implement the logic of a multi-layer perceptron and eva
 3. Loss
 [Redes neurais artificiais #12: Funções de perda - parte 4](https://youtu.be/9Uw5KT6x4p0?si=pAGVzmu7_WDOeV-p)
 [Função erro](https://ibb.co/qn7SFMP)
-
-4. 
